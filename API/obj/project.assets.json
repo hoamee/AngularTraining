@@ -1361,34 +1361,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hieul\\.nuget\\packages\\": {}
+    "/Users/lethanhhieu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual-studio\\Warehouse\\API\\API.csproj",
+      "projectUniqueName": "/Users/lethanhhieu/Visual-studio/AngularTraining/API/API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\visual-studio\\Warehouse\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\hieul\\.nuget\\packages\\",
-      "outputPath": "D:\\visual-studio\\Warehouse\\API\\obj\\",
+      "projectPath": "/Users/lethanhhieu/Visual-studio/AngularTraining/API/API.csproj",
+      "packagesPath": "/Users/lethanhhieu/.nuget/packages/",
+      "outputPath": "/Users/lethanhhieu/Visual-studio/AngularTraining/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hieul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/lethanhhieu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\visual-studio\\Warehouse\\Infrastrure\\Infrastrure.csproj": {
-              "projectPath": "D:\\visual-studio\\Warehouse\\Infrastrure\\Infrastrure.csproj"
+            "/Users/lethanhhieu/Visual-studio/AngularTraining/Infrastrure/Infrastrure.csproj": {
+              "projectPath": "/Users/lethanhhieu/Visual-studio/AngularTraining/Infrastrure/Infrastrure.csproj"
             }
           }
         }
@@ -1436,7 +1434,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

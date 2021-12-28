@@ -23,6 +23,7 @@ using (var scope = app.Services.CreateScope())
     {
         var context = services.GetRequiredService<WarehouseContext>();
         await context.Database.MigrateAsync();
+        await WarehouseContextSeed.SeedAsync(context, loggerFactory);
     }
     catch (Exception ex)
     {
