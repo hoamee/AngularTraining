@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5RvkszpzqKrrrKmF5aIf+hlXellRu3X0NFdc9ilZy7Ra0YCIv4+S/UuwvP90si58bl9cBdCL+AXDOyjO2zcp0w==",
+  "dgSpecHash": "1sUzHieUdydpnYBFS78ro4vsGpQ0vuqoVO15q54DEapJFk3/zzX0zh2NmU/G5o19kmiZY/s4JCg4VErQ/jpbVw==",
   "success": true,
-  "projectFilePath": "D:\\visual-studio\\AngularTraining\\Core\\Core.csproj",
+  "projectFilePath": "/Users/lethanhhieu/Visual-studio/AngularTraining/Core/Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
